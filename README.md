@@ -54,10 +54,6 @@ git clone https://github.com/maurovieirareis/osx-shell-theme
 
 Alternatively you can [download](https://codeload.github.com/maurovieirareis/osx-shell-theme/zip/master) this repository.
 
-## License
-
-The Stewed is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
-
 Created with ♥️ by [@mauroreisvieira](https://twitter.com/mauroreisvieira) in **Portugal**
 
 
